@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Polygons</string>
+    <string name="title_activity_maps">Polygons</string>
+    <string name="title_activity_stastistics">Stastistics</string>
+</resources>
